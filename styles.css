@@ -37,3 +37,11 @@ main img {
     height: auto;
     margin-top: 1em;
 }
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: #f5f5dc;
+}
